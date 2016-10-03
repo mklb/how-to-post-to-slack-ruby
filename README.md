@@ -1,8 +1,8 @@
 # How to post to a Slack channel from your Ruby/Rails backend
 ## Setup & usage
-1) Copy the 35 lines small ,self explaining 'SlackNotifier' class and use it as follows
-2) Go to: https://slack.com/apps/A0F7XDUAZ-incoming-webhooks, add the app to your slack team, setup the webhooks default channel and copy your webhook url
-3) You are ready to post! Use the class as follows:
+1. Copy the 35 lines small, self explaining 'SlackNotifier' class and use it as follows
+2. Go to: https://slack.com/apps/A0F7XDUAZ-incoming-webhooks, add the app to your slack team, setup the webhooks default channel and copy your webhook url
+3. You are ready to post! Use the class as follows:
 
 ```ruby
 # Initialize
